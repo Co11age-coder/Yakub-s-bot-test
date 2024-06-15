@@ -1,0 +1,15 @@
+{
+  "name": "bot-tester",
+  "version": "1.0.0",
+  "description": "just for try",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Co11age",
+  "license": "ISC",
+  "dependencies": {
+    "grammy": "^1.22.4"
+  }
+}
